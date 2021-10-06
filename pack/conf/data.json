@@ -1,0 +1,10 @@
+{
+    "build_backend": [
+        {
+            "build_backend": [
+                "setuptools.build_meta",
+                "\n"
+            ]
+        }
+    ]
+}

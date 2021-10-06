@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: attr-pack.development.value
+Version: 0.0.0
+Summary: A high-level python modules to compile/debug STM32 microcontrollers programs.
+Home-page: false
+Author: Rafael Exposito Verdejo
+Author-email: false@hotmail.com
+Maintainer: Rafael Exposito false
+Maintainer-email: false@hotmail.com
+License: Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)
+Download-URL: false
+Project-URL: Git, https://github.com/false
+Platform: Windows
+Classifier: Topic :: Software Development :: Embedded Systems
+Requires-Python: >=3.6
+Description-Content-Type: reStructuredText
+
+==============
+Micro
+==============
+
+Micro projects is a high-level frameworks developed to compile/debug STM32 projects
+
+
+
+
